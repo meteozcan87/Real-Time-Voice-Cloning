@@ -18,7 +18,7 @@ I also added the sample voices that I created in order to run the code and outpu
     ```
     ![alt text][anaconda-env]
 
-[anaconda-env]: ./anaconda-env.png "1"
+[anaconda-env]: ./anaconda-env.PNG "1"
 
 3. Install [ffmpeg](https://ffmpeg.org/download.html#get-packages). This is necessary for reading audio files.
     ### **ffmeg library was not included in requirements. Therefore I installed it:**
@@ -44,7 +44,7 @@ I also added the sample voices that I created in order to run the code and outpu
     
     ![alt text][repo-terminal]
 
-[repo-terminal]: ./repo-terminal.png "2"
+[repo-terminal]: ./repo-terminal.PNG "2"
 
 
 6. (Optional) Download Pretrained Models
@@ -54,7 +54,7 @@ Pretrained models are now downloaded automatically. If this doesn't work for you
 
 ![alt text][pretrained-models]
 
-[pretrained-models]: ./pretrained-models.png "3"
+[pretrained-models]: ./pretrained-models.PNG "3"
 
 7. (Optional) Test Configuration
 Before you download any dataset, you can begin by testing your configuration with:
