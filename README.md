@@ -67,7 +67,7 @@ If all tests pass, you're good to go.
 ```bash
 python demo_cli.py
 ```
-See the screen recording video file "running-demo.mp4"
+### See the screen recording video file "running-demo.mp4"
 
 ---
 # Run
@@ -83,5 +83,5 @@ or
 ```bash
 python demo_toolbox.py
 ```
-See the screen recording video file "running-code.mp4"
-See the screen recording video file "creating-outputs.mp4"
+### See the screen recording video file "running-code.mp4".
+### See the screen recording video file "creating-outputs.mp4".
